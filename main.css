@@ -1,0 +1,71 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: inherit;
+}
+header{
+  opacity: 1;
+  filter: alpha(opacity=50);
+}
+body{
+    background-image: url("https://cdn.guidingtech.com/imager/media/assets/HD-Mouth-Watering-Food-Wallpapers-for-Desktop-12_acdb3e4bb37d0e3bcc26c97591d3dd6b.jpg");
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+
+  /* background-color: #9b9e9e; */
+}
+.main{
+  width: 100%;
+  height: 155px;
+  background-color: #0002;
+}
+ul{
+  list-style-type: none;
+  float: right;
+  margin: 100px;
+}
+ul li{
+  display: inline-block;
+}
+ul li.hom a{
+  background-color: #fff;
+  color: #000;
+}
+ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 7px 20px;
+
+}
+ul li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.logo img{
+  float: left;
+  width: 190px;
+  height: auto;
+  margin: 25px;
+}
+.title{
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  /* transform: translate(-50%,-50%); */
+  left: 170px;
+  color: #fff;
+  font-family: cursive;
+  opacity: 0.7;
+  filter: alpha(opacity=50);
+
+}
+.title h2{
+   font-family:
+}
+.title h3{
+
+}
+.title h4{
+
+}
